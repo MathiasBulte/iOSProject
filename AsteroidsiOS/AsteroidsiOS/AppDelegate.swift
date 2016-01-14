@@ -1,6 +1,6 @@
-//
+ //
 //  AppDelegate.swift
-//  iOSAsteroids
+//  AsteroidsiOS
 //
 //  Created by Mathias on 10/12/2015.
 //  Copyright © 2015 Mathias. All rights reserved.

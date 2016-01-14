@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>iOSAsteroids.xcscheme</key>
+		<key>AsteroidsiOS.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>C72DD16D1C19A30A0076344E</key>
+		<key>C759CF251C19A3F000863C36</key>
 		<dict>
 			<key>primary</key>
 			<true/>

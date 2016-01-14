@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C72DD16D1C19A30A0076344E"
-               BuildableName = "iOSAsteroids.app"
-               BlueprintName = "iOSAsteroids"
-               ReferencedContainer = "container:iOSAsteroids.xcodeproj">
+               BlueprintIdentifier = "C759CF251C19A3F000863C36"
+               BuildableName = "AsteroidsiOS.app"
+               BlueprintName = "AsteroidsiOS"
+               ReferencedContainer = "container:AsteroidsiOS.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C72DD16D1C19A30A0076344E"
-            BuildableName = "iOSAsteroids.app"
-            BlueprintName = "iOSAsteroids"
-            ReferencedContainer = "container:iOSAsteroids.xcodeproj">
+            BlueprintIdentifier = "C759CF251C19A3F000863C36"
+            BuildableName = "AsteroidsiOS.app"
+            BlueprintName = "AsteroidsiOS"
+            ReferencedContainer = "container:AsteroidsiOS.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C72DD16D1C19A30A0076344E"
-            BuildableName = "iOSAsteroids.app"
-            BlueprintName = "iOSAsteroids"
-            ReferencedContainer = "container:iOSAsteroids.xcodeproj">
+            BlueprintIdentifier = "C759CF251C19A3F000863C36"
+            BuildableName = "AsteroidsiOS.app"
+            BlueprintName = "AsteroidsiOS"
+            ReferencedContainer = "container:AsteroidsiOS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C72DD16D1C19A30A0076344E"
-            BuildableName = "iOSAsteroids.app"
-            BlueprintName = "iOSAsteroids"
-            ReferencedContainer = "container:iOSAsteroids.xcodeproj">
+            BlueprintIdentifier = "C759CF251C19A3F000863C36"
+            BuildableName = "AsteroidsiOS.app"
+            BlueprintName = "AsteroidsiOS"
+            ReferencedContainer = "container:AsteroidsiOS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
